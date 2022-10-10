@@ -1,0 +1,11 @@
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\bin\Debug\BinarytoDec.exe.config
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\bin\Debug\BinarytoDec.exe
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\bin\Debug\BinarytoDec.pdb
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.csproj.AssemblyReference.cache
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.csproj.SuggestedBindingRedirects.cache
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.Form1.resources
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.Properties.Resources.resources
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.csproj.GenerateResource.cache
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.csproj.CoreCompileInputs.cache
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.exe
+C:\Users\caran\source\repos\BinarytoDec\BinarytoDec\obj\Debug\BinarytoDec.pdb
